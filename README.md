@@ -2,6 +2,7 @@ Joint project of group 4 - Kim bagtas, Lazhar espinosa, Francis ivan roque, Cj n
 
  
 To open: 
+
 Replace or add htdocs folder to C:\xampp 
 
 Open Xampp > Start Apache and MySQL 
