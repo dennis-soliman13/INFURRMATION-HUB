@@ -1,6 +1,6 @@
 Joint project of group 4 - Kim bagtas, Lazhar espinosa, Francis ivan roque, Cj navarro, Dennis soliman jr.
 
-
+ 
 To open: 
 Replace or add htdocs folder to C:\xampp 
 
